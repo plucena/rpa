@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sistema RPA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">Bem vindo ao Sistema RPA!</string>
+    <string name="text2">Para realizar o cadastro é necessário ler o QR CODE e em seguida cadastrar o usuário.</string>
+    <string name="btiniciar">Iniciar</string>
+    <string name="text3">Para realizar a leitura do QR CODE, necessita ter o aplicativo BAR CODE instalado no smartphone.</string>
+    <string name="text4">ãoCaso não esteja instalado basta pressionar o botão abaixo e será direcionado a loja Google Play para o download do aplicativo.</string>
+    <string name="btqr">Ler QR CODE</string>
+    <string name="btvoltar1">Voltar</string>
+    <string name="btproximo">Próximo</string>
+    <string name="btcadastrar">Cadastrar</string>
+    <string name="btvoltar2">Voltar</string>
+    <string name="text6">Digite o ID de usuário:</string>
+    <string name="btQr">Ler QR CODE</string>
+    <string name="qrcode">:</string>
+    <string name="text5">Caso  não esteja instalado, basta pressionar o botão abaixo e será direcionado a loja Google Play para o download do aplicativo.</string>
+    <string name="text7">Para realizar a leitura do QR CODE, necessita ter o aplicativo BAR CODE instalado no smartphone. Se já tiver instalado só pressionar o botão para a leitura do código.</string>
+    <string name="textregistrar">Registrar</string>
+    <string name="textiniciar">Iniciar Registro</string>
+    <string name="texthome">Para realizar o registro de presença automatizada é necessário ler o QR CODE e em seguida cadastrar o usuário.</string>
+    <string name="btproximo2">Avançar</string>
+    <string name="btregistrar">Registrar</string>
+    <string name="senha">A senha é:</string>
+    <string name="textavancar">Avançar</string>
+    <string name="result">resultado</string>
+
+</resources>
