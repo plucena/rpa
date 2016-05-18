@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>    
+    <head>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+        <script>
+
+            $(init);
+            function init() {
+                $('#cadastra').click(presenca);                
+            }
+
+            function presenca() {
+                vurl = "http://localhost:8080/alunonfc/webservice/presenca/?id=777&nome=YYY&senha=SENHAUNASP";
+                $.ajax({
+                    url: vurl,
+                    type: 'PUT',
+                    dataType: 'json',
+                    data: '',
+                    success: function(response) {
+                        resultado();
+                    }
+                });
+            }
+
+            function resultado() {
+
+            }
+
+        </script>
+
+    </head>
+
+    <body>
+        <div>TODO write content</div>
+        <input id="cadastra" type="button" value="CADASTRA" />
+    </body>
+</html>
